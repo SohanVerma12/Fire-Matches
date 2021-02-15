@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Sehore Fire Matches</string>
+
+    <string-array name="services">
+        <item>Smile</item>
+        <item>Foodie</item>
+        <item>Crazy</item>
+        <item>Zombie dump</item>
+        <item>cool boy</item>
+        <item>cool ladki</item>
+        <item>Netflix</item>
+        <item>Amazon Prime</item>
+        <item>Hulu</item>
+        <item>Vudu</item>
+        <item>HBO Now</item>
+        <item>Youtube Originals</item>
+        <item>None</item>
+    </string-array>
+
+    <string name="fcm_message"> New Notification </string>
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+    <string name="default_notification_channel_name">dafault</string>
+
+
+    <string name="type_your_message">Type a message</string>
+    <string name="NoRecent">No recent</string>
+
+
+</resources>
